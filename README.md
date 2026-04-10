@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AkankshaS2
-- 👀 I’m interested in Web Development, ML, Gen AI
+- 👀 I’m interested in ML, Gen AI,  Web Development
 - 🌱 I’m currently learning NLP, Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
