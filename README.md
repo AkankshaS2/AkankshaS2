@@ -24,25 +24,18 @@
 
 ### Tech Stack
 
-<!-- Languages -->
-<img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,react" alt="Languages" />
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,html,css,js,react,mysql" alt="Languages" />
 
-<!-- Core CS & Databases -->
-<img src="https://skillicons.dev/icons?i=dsa,c,oracle,mysql" alt="Core CS & Databases" />
-<br/><br/>
 
-<!-- DevOps & Cloud -->
-<img src="https://skillicons.dev/icons?i=jenkins,docker,aws" alt="DevOps & Cloud" />
-<br/><br/>
+****
+<img src="https://skillicons.dev/icons?i=jenkins,docker,aws" alt="Cloud & DevOps" />
 
-<!-- AI / ML -->
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,scikitlearn" alt="AI/ML" />
-<img src="https://img.shields.io/badge/Hugging%20Face-%23FF6F00?style=flat-square&logo=huggingface&logoColor=white" height="48" alt="NLP" />
-<img src="https://img.shields.io/badge/MediaPipe-%230097A7?style=flat-square&logo=google&logoColor=white" height="48" alt="MediaPipe" />
-<br/><br/>
 
-<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn" alt="AI/ML" />
+<img src="https://img.shields.io/badge/🤗_Hugging_Face-1a1b27?style=flat-square" height="48" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/MediaPipe-1a1b27?style=flat-square&logo=google&logoColor=00ff9d" height="48" alt="MediaPipe" />
+
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
 
 </div>
