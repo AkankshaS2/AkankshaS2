@@ -32,8 +32,6 @@
 
 
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn" alt="AI/ML" />
-<img src="https://img.shields.io/badge/🤗_Hugging_Face-1a1b27?style=flat-square" height="48" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/MediaPipe-1a1b27?style=flat-square&logo=google&logoColor=00ff9d" height="48" alt="MediaPipe" />
 
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
